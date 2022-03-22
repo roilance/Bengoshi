@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Bengoshi/static/js/main.884a5d80.js",
+    "main.js": "/Bengoshi/static/js/main.7465affc.js",
     "index.html": "/Bengoshi/index.html",
-    "main.884a5d80.js.map": "/Bengoshi/static/js/main.884a5d80.js.map"
+    "main.7465affc.js.map": "/Bengoshi/static/js/main.7465affc.js.map"
   },
   "entrypoints": [
-    "static/js/main.884a5d80.js"
+    "static/js/main.7465affc.js"
   ]
 }
